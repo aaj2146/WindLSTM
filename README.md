@@ -11,9 +11,12 @@ To this end, we use publicly available data from [Sotavento Galicia](www.sotaven
 We will experiment with different architectures LSTMs and GRUs for this project. A quick look at the data shows us that there are quite a lot of missing values for the years 2004, 2005 and 2008. Therefore, we will drop these years from the analysis. Subsequently we take the data from 2006 to 2016 (barring 2008) as the training set, the 2017 data as the validation set and 2018 data as the test set.
 
 The results are reproducible and are avaliable in the notebook '14 - Deep Learning on Alternate Data.ipynb' in this repo. The predictions on the test set look as follows: 
+For Spring 2018:
 
 ![alt text](https://raw.githubusercontent.com/aaj2146/WindLSTM/master/LSTMSpring.png)
 
 For Fall 2018:
 
-![alt text](https://raw.githubusercontent.com/aaj2146/WindLSTM/master/LSTMS.png)
+![alt text](https://raw.githubusercontent.com/aaj2146/WindLSTM/master/LSTM.png)
+
+The two seasons represent the least and most windy seasons of the year respectively.
