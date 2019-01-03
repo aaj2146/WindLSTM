@@ -1,6 +1,5 @@
 # Deep Learning for Time Series Data - Wind Energy Forecasting using LSTMs
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
 
 
 ## Introduction - Problem Set up
@@ -13,8 +12,8 @@ We will experiment with different architectures LSTMs and GRUs for this project.
 
 The results are reproducible and are avaliable in the notebook '14 - Deep Learning on Alternate Data.ipynb' in this repo. The predictions on the test set look as follows: 
 
-![alt text](https://raw.githubusercontent.com/aaj2146/WindLSTM/blob/master/LSTMSpring.png)
+![alt text](https://raw.githubusercontent.com/aaj2146/WindLSTM/master/LSTMSpring.png)
 
 For Fall 2018:
 
-![alt text](https://raw.githubusercontent.com/aaj2146/WindLSTM/blob/master/LSTMS.png)
+![alt text](https://raw.githubusercontent.com/aaj2146/WindLSTM/master/LSTMS.png)
